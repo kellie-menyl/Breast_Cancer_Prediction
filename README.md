@@ -55,6 +55,20 @@ Model performance was evaluated using the following metrics:
 
 Logistic Regression was selected due to its high accuracy (98%) and interpretability.
 
+## Visualization
+
+1. Correlation heatmap
+![alt text](image.png)
+
+2. Pair plot os selected features
+![alt text](image-1.png)
+
+3. Distribution of feature values for each diagnosis
+![alt text](image-2.png)
+
+4. Box plots of feature values by diagnosis
+![alt text](image-3.png)
+
 ## Summary
 
 The Logistic Regression model is ready for deployment and can be integrated into healthcare systems for real-time breast cancer prediction. Future work includes building a user-friendly interface for non-technical users.
