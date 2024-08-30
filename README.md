@@ -1,5 +1,7 @@
 # **Breast Cancer Prediction Using Machine Learning**
 
+![alt text](image-4.png)
+
 ## Project Overview
 
 This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to develop a machine learning model for predicting whether a breast tumor is benign or malignant. The objective is to create a reliable and interpretable model to assist healthcare providers in early diagnosis and treatment planning for breast cancer.
@@ -58,15 +60,19 @@ Logistic Regression was selected due to its high accuracy (98%) and interpretabi
 ## Visualization
 
 1. Correlation heatmap
-![alt text](image.png)
+
+![alt text](image-5.png)
 
 2. Pair plot os selected features
+
 ![alt text](image-1.png)
 
 3. Distribution of feature values for each diagnosis
+
 ![alt text](image-2.png)
 
 4. Box plots of feature values by diagnosis
+
 ![alt text](image-3.png)
 
 ## Summary
