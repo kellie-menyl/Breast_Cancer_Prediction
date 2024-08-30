@@ -57,6 +57,10 @@ Model performance was evaluated using the following metrics:
 
 Logistic Regression was selected due to its high accuracy (98%) and interpretability.
 
+**Feature Engineering**:
+
+Feature Engineering was used inorder to generate a list that orders features according to their importance.
+
 ## Visualization
 
 1. Correlation heatmap
