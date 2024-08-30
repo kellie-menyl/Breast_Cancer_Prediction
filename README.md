@@ -82,3 +82,6 @@ Feature Engineering was used inorder to generate a list that orders features acc
 ## Summary
 
 The Logistic Regression model is ready for deployment and can be integrated into healthcare systems for real-time breast cancer prediction. Future work includes building a user-friendly interface for non-technical users.
+
+## Email
+kelliemenyl@gmail.com
